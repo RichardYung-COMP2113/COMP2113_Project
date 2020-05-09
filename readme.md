@@ -40,7 +40,8 @@ Repeat the process until either all the treasure are found or the sonars run out
 
 ## Screenshot
 
-
+![image](https://github.com/RichardYung-COMP2113/COMP2113_Project/blob/master/screenshot%201.PNG)
+![image](https://github.com/RichardYung-COMP2113/COMP2113_Project/blob/master/screenshot%202.PNG)
 
 
 ##  Features implemented
