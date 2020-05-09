@@ -38,6 +38,10 @@ and '2' is where the player put her sonar. The '2' indicates that the treasure c
 
 Repeat the process until either all the treasure are found or the sonars run out.
 
+## Screenshot
+
+
+
 
 ##  Features implemented
 
@@ -80,7 +84,7 @@ In other to preserve the modularity of the program, functions and different type
 
 6. Proper indentation and naming files
 
-7 In-code documentation
+7. In-code documentation
 
 
 ## Files
@@ -89,7 +93,7 @@ This repository includes three files, namely the source code file, i.e. sonar.cp
 
 
 
-
+## Video (WIP)
 
 
 ## Citation
