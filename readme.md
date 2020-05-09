@@ -57,7 +57,13 @@ I choose to use a 2D array of char ( point to point to char) to mimic the grids 
 
 The program employs the dynamic memory allocation technique to create dynamic arrays that can increase or shrink in size on demand during run-time. Specifically, the map grids and the locations of the treasure crates are stored in dynamic arrays so that the player can determine their sizes.
 
-4. 
+4. Game stats saving and loading (Point 4: file input/output)
+
+The program makes use of the file input and output system to save or load the map from another file.
+
+5. Usage of arrays, pass by reference, pointer to pointers, etc (Point 2 & 5)
+
+In other to preserve the modularity of the program, functions and different types of data structures are used to make the communications between differnet functions or program snippets run seamlessly, without using too much global varaibles so that readabiliy is maintained.
 
 
 ## Code Requirement (reference)
@@ -77,8 +83,14 @@ The program employs the dynamic memory allocation technique to create dynamic ar
 7 In-code documentation
 
 
+## Files
+
+This repository includes three files, namely the source code file, i.e. sonar.cpp, the header file, i.e. sonar.h, and a Makefile.
+
+
 
 
 
 
 ## Citation
+
