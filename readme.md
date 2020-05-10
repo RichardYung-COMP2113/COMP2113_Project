@@ -93,9 +93,6 @@ In other to preserve the modularity of the program, functions and different type
 This repository includes three files, namely the source code file, i.e. sonar.cpp, the header file, i.e. sonar.h, and a Makefile.
 
 
-
-## Video (WIP)
-
-
 ## Citation
 
+I got the game idea from the book *Invent Your Own Computer Game with Python* (p. 218-249). Although the name of my game is the same as the one from the book, the implementation is different. I also created the several features that the original one do not have, such as the dynamic allocation of memory.
